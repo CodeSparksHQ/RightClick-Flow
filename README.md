@@ -1,3 +1,5 @@
+THIS IS A WORK IN PROGRESS - NOT FUNCTIONAL YET
+
 # Guide to Windows Registry Context Menu Variables
 
 ## The Core Principle: Context is Everything
